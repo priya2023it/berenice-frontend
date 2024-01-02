@@ -50,10 +50,6 @@
     "nouislider": "14.6.2",
     "nouislider-react": "3.3.8",
     "postcss-rtl": "1.5.0",
-<<<<<<< HEAD
-=======
-    "postcss-safe-parser": "^7.0.0",
->>>>>>> db61045f6adfe7a4669780bd9a95eefc2ec371af
     "prismjs": "1.19.0",
     "prop-types": "15.7.2",
     "push-notification-preview": "0.1.8",
@@ -120,17 +116,10 @@
     "yup": "^0.32.9"
   },
   "scripts": {
-<<<<<<< HEAD
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-app-rewired eject",
-=======
-    "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
->>>>>>> db61045f6adfe7a4669780bd9a95eefc2ec371af
     "lint": "eslint src/**/*.js src/**/*.jsx",
     "lint:fix": "eslint src/**/*.js --fix"
   },
